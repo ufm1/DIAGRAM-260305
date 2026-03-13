@@ -1,23 +1,23 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
   <diagram name="페이지-1" id="WdbGmOa_wMJgMtJo-dc_">
-    <mxGraphModel dx="1426" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1188" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="T3zDKoVuZSmlsrSNVJ38-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="L1" vertex="1">
-          <mxGeometry height="20" width="20" x="280" y="540" as="geometry" />
+          <mxGeometry height="20" width="20" x="280" y="530" as="geometry" />
         </mxCell>
         <mxCell id="T3zDKoVuZSmlsrSNVJ38-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="L2" vertex="1">
-          <mxGeometry height="20" width="20" x="290" y="570" as="geometry" />
+          <mxGeometry height="20" width="20" x="290" y="560" as="geometry" />
         </mxCell>
         <mxCell id="T3zDKoVuZSmlsrSNVJ38-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="L3" vertex="1">
-          <mxGeometry height="20" width="20" x="300" y="600" as="geometry" />
+          <mxGeometry height="20" width="20" x="300" y="590" as="geometry" />
         </mxCell>
         <mxCell id="T3zDKoVuZSmlsrSNVJ38-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="485&lt;div&gt;B&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="20" x="320" y="690" as="geometry" />
+          <mxGeometry height="30" width="20" x="320" y="681" as="geometry" />
         </mxCell>
         <mxCell id="T3zDKoVuZSmlsrSNVJ38-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="485&lt;div&gt;A&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="20" x="310" y="640" as="geometry" />
+          <mxGeometry height="30" width="20" x="310" y="631" as="geometry" />
         </mxCell>
         <mxCell id="T3zDKoVuZSmlsrSNVJ38-45" edge="1" parent="1" source="T3zDKoVuZSmlsrSNVJ38-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;jumpSize=5;endArrow=oval;endFill=1;fillColor=#ffff88;strokeColor=#FFFF00;strokeWidth=2;">
           <mxGeometry relative="1" as="geometry">
@@ -269,8 +269,8 @@
         <mxCell id="IKh_jh_33CO-E3LmeegS-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="600mm" vertex="1">
           <mxGeometry height="20" width="60" x="400" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="IKh_jh_33CO-E3LmeegS-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="선 구분을 위해&lt;div&gt;길이를 다르게 함&lt;/div&gt;&lt;div&gt;L1,2,3, RS485 A, B&lt;/div&gt;&lt;div&gt;모두 길이 같음&lt;/div&gt;" vertex="1">
-          <mxGeometry height="55" width="110" x="378" y="537.5" as="geometry" />
+        <mxCell id="IKh_jh_33CO-E3LmeegS-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="선 구분을 위해&lt;div&gt;길이를 다르게 함&lt;/div&gt;&lt;div&gt;나눠지기 전까지&lt;/div&gt;&lt;div&gt;L1,2,3, RS485 A, B&lt;/div&gt;&lt;div&gt;모두 길이 같음(3M)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="72.5" width="110" x="378" y="537.5" as="geometry" />
         </mxCell>
         <mxCell id="IKh_jh_33CO-E3LmeegS-8" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -335,8 +335,26 @@
         <mxCell id="IKh_jh_33CO-E3LmeegS-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" value="2.5M" vertex="1">
           <mxGeometry height="10" width="20" x="250" y="430" as="geometry" />
         </mxCell>
-        <mxCell id="IKh_jh_33CO-E3LmeegS-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="끝은 2.5m 로&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;하면 어떨까?&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;가운데는 1M 로 할까?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;그 안에를 1.5M 로 할까?&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;각 선은 날선 아닌 케이블로&lt;/div&gt;&lt;div&gt;3상-1케이블, 485-1케이블&lt;/div&gt;" vertex="1">
-          <mxGeometry height="125" width="170" x="470" y="385" as="geometry" />
+        <mxCell id="6y3H8Jzkx2lP3ZOA9aTt-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3M 이후 분배 케이블 길이 예상&lt;div&gt;전원, 통신 케이블 모두&lt;br&gt;&lt;div&gt;EC FAN 1, 5: 2.5M&lt;/div&gt;&lt;div&gt;EC FAN 2, 4: 1.5M&lt;/div&gt;&lt;div&gt;EC FAN 3: 1M&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="170" x="420" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="6y3H8Jzkx2lP3ZOA9aTt-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#A4A4A480,#CBCBCB);" value="" vertex="1">
+          <mxGeometry height="73" width="26" x="287" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="6y3H8Jzkx2lP3ZOA9aTt-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#A4A4A480,#CBCBCB);" value="" vertex="1">
+          <mxGeometry height="73" width="14" x="318" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="6y3H8Jzkx2lP3ZOA9aTt-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-90;" value="전원 케이블" vertex="1">
+          <mxGeometry height="15" width="70" x="243" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="6y3H8Jzkx2lP3ZOA9aTt-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=90;" value="통신 케이블" vertex="1">
+          <mxGeometry height="15" width="70" x="304" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="6y3H8Jzkx2lP3ZOA9aTt-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
+          <mxGeometry height="200" width="380" x="90" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="6y3H8Jzkx2lP3ZOA9aTt-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="점선 사각형 안에 케이블이&lt;div&gt;날선으로 보이나, 표시를 위함이지&lt;/div&gt;&lt;div&gt;모두 케이블로 되어있음&lt;/div&gt;&lt;div&gt;(날선 상태 아님)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="57.5" width="170" x="205" y="162.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
